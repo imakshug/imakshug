@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Akshu Gupta!
+- 👀 I’m interested in becoming Software Engineer 👩‍💻.
+- 🌱 I’m currently learning Python 🐍.
