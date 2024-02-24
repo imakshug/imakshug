@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshita Gupta!
 - 👀 In  the process of becoming a Software Engineer 👩‍💻.
 - 🌱 I work on Python Tech Stck🐍.
-- Opps with C++
-- 
+- 💻 Opps with C++
+- 📚 Bookworm in night with ☕ 
