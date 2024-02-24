@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Akshu Gupta!
-- 👀 I’m interested in becoming Software Engineer 👩‍💻.
-- 🌱 I’m currently learning Python 🐍.
+- 👋 Hi, I’m Akshita Gupta!
+- 👀 In  the process of becoming a Software Engineer 👩‍💻.
+- 🌱 I work on Python Tech Stck🐍.
+- Opps with C++
+- 
