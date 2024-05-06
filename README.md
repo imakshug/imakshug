@@ -4,8 +4,7 @@
   🌱 I work on Python Tech Stck🐍.<br>
   💻 Opps with C++ <br>
   📚 Bookworm in night with ☕</h3>
-
-- 🔭 I’m currently working on **Automating bank check extraction from scanned pdfs**
+ 
 
 - 👨‍💻 About me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
 
