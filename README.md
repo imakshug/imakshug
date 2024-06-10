@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
-<h3 align="center">A passionate front-end developer from India.<br>
+<h3 align="center">A passionate developer from India.<br>
   👀 In the process of becoming a Software Engineer 👩‍💻.<br>
   🌱 I work on Python Tech Stck🐍.<br>
   💻 Opps with C++ <br>
