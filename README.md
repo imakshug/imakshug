@@ -1,5 +1,5 @@
 <div align="center">
-<video src="https://v1.pinimg.com/videos/mc/720p/ee/85/90/ee85906c2b653b676396e7996503bfd0.mp4" align="center" height="200" width="100%" />
+<img src="https://v1.pinimg.com/videos/mc/720p/ee/85/90/ee85906c2b653b676396e7996503bfd0.mp4" align="center" height="200" width="100%" />
 </div>  
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
 <h3 align="center">A passionate developer from India.<br>
