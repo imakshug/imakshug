@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://in.pinterest.com/pin/1196337402187798/" align="center" height="" width="600" />
+</div>  
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
 <h3 align="center">A passionate developer from India.<br>
   👀 In the process of becoming a Software Engineer 👩‍💻.<br>
