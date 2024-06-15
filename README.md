@@ -1,6 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
-[how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/2b9f3ee7-d4bb-4092-83ac-96fa49652f73)
+ 
+![how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
 <h3 align="center">A passionate developer from India.<br>
   👀 In the process of becoming a Software Engineer 👩‍💻.<br>
