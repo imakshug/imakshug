@@ -1,7 +1,7 @@
-<div align="center">
-<img src="https://i.pinimg.com/564x/87/33/34/8733341ed14a169f99469f7a017aa56a.jpg" align="center" height="200" width="100%" />
-</div>  
+
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
+[how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/2b9f3ee7-d4bb-4092-83ac-96fa49652f73)
+
 <h3 align="center">A passionate developer from India.<br>
   👀 In the process of becoming a Software Engineer 👩‍💻.<br>
   🌱 I work on Python Tech Stck🐍.<br>
