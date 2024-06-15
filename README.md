@@ -9,6 +9,7 @@
   💻 Opps with C++ <br>
   📚 Bookworm in night with ☕</h3>
  
+![dc77c04e5016016339c655c4035a36ed](https://github.com/imakshug/imakshug/assets/89334182/7f9506f7-9bad-4ada-8f2e-3929bd182e96)
 
 - 👨‍💻 About me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
 
