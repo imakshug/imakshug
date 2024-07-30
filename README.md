@@ -57,6 +57,14 @@
 
  ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=imakshug&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+###
+
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
