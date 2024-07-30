@@ -19,7 +19,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ngof1I-vkNzxbk1D11wqSSg9Uxarofda/view?usp=drive_link](https://drive.google.com/file/d/1ngof1I-vkNzxbk1D11wqSSg9Uxarofda/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to read**
-
  <br clear="both">
 
 <div align="left">
