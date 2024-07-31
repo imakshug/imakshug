@@ -3,16 +3,14 @@
  
 ![how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
-<h3 align="left">A passionate developer from India.<br>
-  👀 In the process of becoming a Software Engineer 👩‍💻.<br>
-  🌱 I work on Python Tech Stck🐍.<br>
-  💻 Opps with C++ <br>
-  📚 Bookworm in night with ☕</h3>
- 
+<h3 align="left">A passionate developer from India.<br></h3>
 
+
+- 👀 In the process of becoming a Software Engineer 👩‍💻.<br>
+   
 - 👨‍💻 About me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
 
-- 💬 Ask me about **books and python , c++**
+- 💬 Ask me about **books, 🐍 , C➕➕, Web Dev**
 
 - 📫 How to reach me **guptakshita210@gmail.com**
 
