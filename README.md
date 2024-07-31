@@ -10,7 +10,7 @@
    
 - 👨‍💻 About me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
 
-- 💬 Ask me about **books, 🐍 , C➕➕, Web Dev**
+- 💬 Ask me about **Tech, Fashion, Astronomy, Books, 🐍 , C➕➕, Web Dev, WW2, Music**
 
 - 📫 How to reach me **guptakshita210@gmail.com**
 
