@@ -6,23 +6,22 @@
 <h3 align="left">A passionate developer from India.<br></h3>
 
 
-- 👀 In the process of becoming a Software Engineer 👩‍💻.<br>
+- 👀  On a journey to become a skilled Software Engineer 👩‍💻.<br>
    
-- 👨‍💻 About me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
+- 👨‍💻 About Me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
 
-- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Dev, Gen ai, Fashion, Astronomy, Books, WW2, Music**
+- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Development, Gen AI, Fashion, Astronomy, Books, WWII, Music**
 
-- 📫 How to reach me **guptakshita210@gmail.com**
+- 📫 Reach Me **guptakshita210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link](https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link)
+- 📄 View My Resume [https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link](https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link)
 
-- 🔬 Some pretty badges [https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb
+- 🏅 Explore My Achievements [https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
 
 - 🏆 Personal Favourites [https://learn.microsoft.com/en-us/users/akkshiiitaa/](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
 
-
-- ⚡ Fun fact **I love to read any and every genre of books**
+- ⚡ Fun fact **I have a passion for reading books across all genres.**
  <br clear="both">
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
