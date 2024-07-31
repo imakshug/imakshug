@@ -3,7 +3,7 @@
  
 ![how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
-<h3 align="center">A passionate developer from India.<br>
+<h3 align="left">A passionate developer from India.<br>
   👀 In the process of becoming a Software Engineer 👩‍💻.<br>
   🌱 I work on Python Tech Stck🐍.<br>
   💻 Opps with C++ <br>
