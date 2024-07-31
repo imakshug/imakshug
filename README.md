@@ -24,7 +24,6 @@
 
 - ⚡ Fun fact **I love to read any and every genre of books**
  <br clear="both">
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
 </div>
