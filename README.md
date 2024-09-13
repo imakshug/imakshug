@@ -14,7 +14,7 @@
 
 - 📫 Reach Me **guptakshita210@gmail.com**
 
-- 📄 View My Resume [https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link](https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link)
+- 📄 View My Resume [https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
 - 🏅 Explore My Achievements [https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
