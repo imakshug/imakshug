@@ -63,6 +63,8 @@
 <img src="https://github.com/user-attachments/assets/45f220c3-8357-415b-ba1d-05c9a6032124" height="100" width="100"   />
 <img src="https://github.com/user-attachments/assets/ff541c6a-40bf-41fe-9ebe-ccc1e5373b55" height="100" width="100"    />
 <img src="https://github.com/user-attachments/assets/4a2aaf39-1f76-45d2-b78f-cd76940f86d6" height="100" width="100"    />
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="100" width="100"    />
+
 </div><br>
 
 
