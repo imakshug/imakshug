@@ -28,6 +28,12 @@
 </div>
 
 
+<h3>Here are some of the badges I’ve earned through my LeetCode journey:</h3>
+
+<img src="https://github.com/user-attachments/assets/45f220c3-8357-415b-ba1d-05c9a6032124" height="100" width="100"  align="left"  />
+<img src="https://github.com/user-attachments/assets/ff541c6a-40bf-41fe-9ebe-ccc1e5373b55" height="100" width="100"  align="left"  />
+<img src="https://github.com/user-attachments/assets/4a2aaf39-1f76-45d2-b78f-cd76940f86d6" height="100" width="100"   align="left" />
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -41,17 +47,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
 </details>
-
-
- 
-
-Here are some of the badges I’ve earned through my LeetCode journey:
-
-<img src="https://github.com/user-attachments/assets/45f220c3-8357-415b-ba1d-05c9a6032124" height="100" width="100"  align="left"  />
-<img src="https://github.com/user-attachments/assets/ff541c6a-40bf-41fe-9ebe-ccc1e5373b55" height="100" width="100"  align="left"  />
-<img src="https://github.com/user-attachments/assets/4a2aaf39-1f76-45d2-b78f-cd76940f86d6" height="100" width="100"   align="left" />
- 
-<div style="clear:both;"></div>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
