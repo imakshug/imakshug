@@ -43,7 +43,6 @@
 </details>
 
 
-###
 <div>
 
 Here are some of the badges I’ve earned through my LeetCode journey:
@@ -52,7 +51,7 @@ Here are some of the badges I’ve earned through my LeetCode journey:
 <img src="https://github.com/user-attachments/assets/ff541c6a-40bf-41fe-9ebe-ccc1e5373b55" height="100" width="100"  align="left"  />
 <img src="https://github.com/user-attachments/assets/4a2aaf39-1f76-45d2-b78f-cd76940f86d6" height="100" width="100"   align="left" />
 </div>
-###
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
