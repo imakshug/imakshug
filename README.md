@@ -10,8 +10,6 @@
    
 - 👨‍💻 About Me [here](https://bento.me/akshita-gupta)
 
-- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Development, Gen AI, Fashion, Astronomy, Books, WWII, Music**
-
 - 📫 Reach Me **guptakshita210@gmail.com**
 
 - 📄 View My Resume [here](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
@@ -22,6 +20,9 @@
 - 🏆 Personal Favourites [link](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
 
 - ⚡ Fun fact **I love reading books across all genres.**
+
+- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Development, Gen AI, Fashion, Astronomy, Books, WWII, Music etc**
+
  <br clear="both">
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
