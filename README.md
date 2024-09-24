@@ -77,7 +77,7 @@
 
 </div><br>
 
-
+<h3>Github Trophies 🏆:</h3>
 <br clear="both">
 
 <div align="center">
