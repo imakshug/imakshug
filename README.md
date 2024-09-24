@@ -1,27 +1,27 @@
 
  <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
  
-![how-to-become-a-web-developer](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
+![hiii](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
 <h3 align="left">A passionate developer from India.<br></h3>
 
 
 - 👀  On a journey to become a skilled Software Engineer 👩‍💻.<br>
    
-- 👨‍💻 About Me [https://bento.me/akshita-gupta](https://bento.me/akshita-gupta)
+- 👨‍💻 About Me [here](https://bento.me/akshita-gupta)
 
 - 💬 Ask me about **Tech,  🐍 , C➕➕, Web Development, Gen AI, Fashion, Astronomy, Books, WWII, Music**
 
 - 📫 Reach Me **guptakshita210@gmail.com**
 
-- 📄 View My Resume [https://drive.google.com/file/d/1KLdXNibzq4hNXdrW8F6U43MPSZuZtvXD/view?usp=drive_link](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
+- 📄 View My Resume [here](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
-- 🏅 Explore My Achievements [https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb
+- 🏅 Explore My Achievements [link
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
 
-- 🏆 Personal Favourites [https://learn.microsoft.com/en-us/users/akkshiiitaa/](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
+- 🏆 Personal Favourites [link](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
 
-- ⚡ Fun fact **I have a passion for reading books across all genres.**
+- ⚡ Fun fact **I love reading books across all genres.**
  <br clear="both">
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
