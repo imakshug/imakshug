@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Akshita Gupta!</h1>
+ <h1 align="center">Hi👋, I'm Akshita!</h1>
  
 ![hiii](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
