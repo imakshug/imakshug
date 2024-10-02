@@ -53,7 +53,6 @@
 <a href="https://twitter.com/akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akkshiiitaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshita-gupta-3900a4226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshita-gupta-3900a4226" height="30" width="40" /></a>
 <a href="https://instagram.com/akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkshiiitaa" height="30" width="40" /></a>
-<a href="https://medium.com/@akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akkshiiitaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akkshiiitaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akkshiiitaa" height="30" width="40" /></a>
 </p>
@@ -104,9 +103,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-
 ###
-
 
 <h3>Here are some of the badges I’ve earned through my LeetCode journey:</h3>
 <div align="left">
