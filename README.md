@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love reading books across all genres.**
 
-- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Development, Gen AI, Fashion, Astronomy, Books, WWII, Music etc**
+- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Dev, Gen AI, Fashion, Astronomy, Books, WWII, Music etc**
 
  <br clear="both">
 <div align="left">
