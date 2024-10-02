@@ -28,6 +28,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
 </div>
 
+### 
+
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -43,6 +45,8 @@
 </div>
 </details>
   
+###
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,6 +58,8 @@
 <a href="https://auth.geeksforgeeks.org/user/akkshiiitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akkshiiitaa" height="30" width="40" /></a>
 </p>
 
+
+###
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -120,6 +126,8 @@
 
 
 </div><br>
+
+###
 
 
 <br clear="both">
