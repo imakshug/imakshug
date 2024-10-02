@@ -10,7 +10,7 @@
    
 - 👨‍💻 About Me [here](https://bento.me/akshita-gupta)
 
-- 📫 Reach Me **guptakshita210@gmail.com**
+- 📫 Mail **guptakshita210@gmail.com**
 
 - 📄 View My Resume [here](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
