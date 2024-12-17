@@ -35,7 +35,7 @@
     <img 
       src="https://holopin.me/imakshug" 
       alt="An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile" 
-      width="300"
+      width="400"
     />
   </a>
 </p>
