@@ -6,22 +6,23 @@
 <h3 align="left">A passionate developer from India.<br></h3>
 
 
-- 👀  On a journey to become a skilled Software Engineer 👩‍💻.<br>
+- 👀 **Trying** (keyword: trying) to become a Software Engineer 👩‍💻.<br>
    
-- 👨‍💻 About Me [here](https://bento.me/akshita-gupta)
+- 🧳 **About Me:** If you’re curious, you can check it out [here](https://bento.me/akshita-gupta)—I promise it's not a mystery novel. 
 
-- 📫 Mail **guptakshita210@gmail.com**
+- 📫 Reach out: **guptakshita210@gmail.com**
 
-- 📄 View My Resume [here](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
+- 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
-- 🏅 Explore My Achievements [link
+- 🏅  I tinker with Cloud sometimes: [Skill Boost Profile🔗
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
 
-- 🏆 Personal Favourites [link](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
+- 🏆Occasionally binge Microsoft Learn Badges: [Profile🔗](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
+ 
+- 💬 Ask me about **C++ (if you insist), Python 🐍, Web Dev, Gen ai , space navigation(you name it).**
 
-- ⚡ Fun fact **I love reading books across all genres.**
+- 🌱 What keeps me grounded: **I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (I dabble in everything).**
 
-- 💬 Ask me about **Tech,  🐍 , C➕➕, Web Dev, Gen AI, Fashion, Astronomy, Books, WWII, Music etc**
 
  <br clear="both">
 <div align="left">
