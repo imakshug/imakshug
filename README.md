@@ -31,6 +31,8 @@
 ### 
 
 
+[![An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imakshug)](https://holopin.io/@imakshug)
+###
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
