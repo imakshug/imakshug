@@ -41,7 +41,8 @@
 </p>
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gupta-akshitaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gupta-akshitaa?trk=profile-badge">Akshita Gupta</a></div>
+              
 ###
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
