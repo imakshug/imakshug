@@ -19,7 +19,7 @@
 
 - 🏆Occasionally binge Microsoft Learn Badges: [Profile](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
  
-- 💬 Ask me about **C++ (if you insist), Python 🐍, Web Dev, Gen ai , space navigation(you name it).**
+- 💬 Ask me about **C++ (if you insist), Python 🐍, Web Dev, Gen ai , space navigation (you name it).**
 
 - 🌱 What keeps me grounded: **I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (I dabble in everything).**
 
