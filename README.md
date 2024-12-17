@@ -29,9 +29,10 @@
 </div>
 
 ### 
+<h3 align="left">Hacktober Fest</h3>
+<p align="left">
 
-
-[![An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imakshug)](https://holopin.io/@imakshug)
+[![An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imakshug)](https://holopin.io/@imakshug) 
 ###
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
