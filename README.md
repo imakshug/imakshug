@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi👋, I'm Akshita!</h1>
+ <h1 align="center">Hello there, I'm Akshita!</h1>
  
 ![hiii](https://github.com/imakshug/imakshug/assets/89334182/a43b2cf9-ba80-4eae-b322-7baead64b1ad)
 
@@ -10,7 +10,7 @@
    
 - 🧳 **About Me:** If you’re curious, you can check it out [here](https://bento.me/akshita-gupta)—I promise it's not a mystery novel. 
 
-- 📫 **Reach out:** guptakshita210@gmail.com
+- 📫 **Reach out:** Email me at guptakshita210@gmail.com
 
 - 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
