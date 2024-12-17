@@ -31,11 +31,15 @@
 ### 
 <h3 align="left">Hacktober Fest</h3>
 <p align="left">
-<div height="30" width="40">
-
-[![An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imakshug)](https://holopin.io/@imakshug) 
+  <a href="https://holopin.io/@imakshug">
+    <img 
+      src="https://holopin.me/imakshug" 
+      alt="An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile" 
+      width="300"
+    />
+  </a>
 </p>
-</div>
+
 
 
 ###
