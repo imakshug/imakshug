@@ -14,10 +14,10 @@
 
 - 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
-- 🏅  I tinker with Cloud sometimes: [Skill Boost Profile🔗
+- 🏅  I tinker with Cloud sometimes: [Skill Boost Profile
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
 
-- 🏆Occasionally binge Microsoft Learn Badges: [Profile🔗](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
+- 🏆Occasionally binge Microsoft Learn Badges: [Profile](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
  
 - 💬 Ask me about **C++ (if you insist), Python 🐍, Web Dev, Gen ai , space navigation(you name it).**
 
