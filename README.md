@@ -10,18 +10,18 @@
    
 - 🧳 **About Me:** If you’re curious, you can check it out [here](https://bento.me/akshita-gupta)—I promise it's not a mystery novel. 
 
-- 📫 Reach out: **guptakshita210@gmail.com**
+- 📫 **Reach out:** guptakshita210@gmail.com
 
 - 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
 
-- 🏅  I tinker with Cloud sometimes: [Skill Boost Profile
+- 🏅 **I tinker with Cloud sometimes:** [Skill Boost Profile
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
 
-- 🏆Occasionally binge Microsoft Learn Badges: [Profile](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
+- 🏆**Occasionally binge Microsoft Learn Badges:** [Profile](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
  
-- 💬 **Ask me about** C++ (if you insist), Python 🐍, Web Dev, Gen ai , space navigation (you name it).
+- 💬 **Ask me about** C++ (if you insist), Python 🐍, Web Dev, Gen AI, space navigation... or anything really.
 
-- 🌱 **What keeps me grounded:** I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (I dabble in everything).
+- 🌱 **What keeps me grounded:** I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (yes, I dabble in everything).
 
 
  <br clear="both">
