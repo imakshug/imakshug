@@ -8,8 +8,9 @@
 
 - 👀 **Trying** (keyword: trying) to become a Software Engineer 👩‍💻.<br>
    
-- 🧳 **About Me:** If you’re curious, you can check it out [here](https://bento.me/akshita-gupta)—I promise it's not a mystery novel. 
+- 🧳 **About Me:** If you’re curious, you can check it out [here](https://u8sc1iioe.sites.cv/)—I promise it's not a mystery novel. 
 
+-🔗 Or if you like simple[here](https://bento.me/akshita-gupta)
 - 📫 **Reach out:** Email me at guptakshita210@gmail.com
 
 - 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
