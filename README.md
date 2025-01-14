@@ -6,7 +6,7 @@
 <h3 align="left">A passionate developer from India.<br></h3>
 
 
-- 👀 **Trying** (keyword: trying) to become a Software Engineer 👩‍💻.<br>
+- 👀 **Trying** to become a Software Engineer 👩‍💻.<br>
    
 - 🧳 **About Me:** If you’re curious, you can check it out [here](https://u8sc1iioe.sites.cv/)—I promise it's not a mystery novel. 
 
