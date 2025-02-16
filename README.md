@@ -20,7 +20,7 @@
 
 - 🏆**Occasionally binge Microsoft Learn Badges:** [Profile](https://learn.microsoft.com/en-us/users/akkshiiitaa/)
  
-- 💬 **Ask me about** C++ (if you insist), Python 🐍, Web Dev, Gen AI, space navigation... or anything really.
+- 💬 **Ask me about** Python 🐍, Web Dev, Gen AI, space navigation... or anything really.
 
 - 🌱 **What keeps me grounded:** I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (yes, I dabble in everything).
 
@@ -29,37 +29,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imakshug.imakshug&"  />
 </div>
-
-### 
-<h3 align="left">Hacktober Fest</h3>
-<p align="left">
-  <a href="https://holopin.io/@imakshug">
-    <img 
-      src="https://holopin.me/imakshug" 
-      alt="An image of @imakshug's Holopin badges, which is a link to view their full Holopin profile" 
-      width="400"
-    />
-  </a>
-</p>
-
- 
-              
-###
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
-</div>
-</details>
-  
-###
 
 
 <h3 align="left">Connect with me:</h3>
@@ -73,74 +42,6 @@
 
 </p>
 
-
-###
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h3>Here are some of the badges I’ve earned through my LeetCode journey:</h3>
-<div align="left">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100"   />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="100" width="100"    />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100"    />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="100" width="100"    />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="100" width="100"    />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="100" width="100"    />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="100" width="100"    />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="100" width="100"    />
- 
-
-
-
-
-
-
-</div><br>
-
-###
 
 
 <br clear="both">
