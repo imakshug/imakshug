@@ -6,14 +6,14 @@
 <h3 align="left">A passionate developer from India.<br></h3>
 
 
-- 👀 **Trying** to become a Software Engineer 👩‍💻.<br>
+- 👀 **In the process** to become a Software Engineer 👩‍💻.<br>
    
 - 🧳 **About Me:** If you’re curious, you can check it out [here](https://u8sc1iioe.sites.cv/)—I promise it's not a mystery novel. 
 
 - 🔗 simple version [here](https://bento.me/akshita-gupta)
 - 📫 **Reach out:** Email me at guptakshita210@gmail.com
 
-- 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1U63Yy3pQz0LfmCQzetaR55frvaNgRgGf/view)
+- 📄 **Resume:** [Here it is](https://drive.google.com/file/d/1PohU4Qg86D0GYt94fc6wf-Tb6QN0bFmP/view?usp=drivesdk)
 
 - 🏅 **I tinker with Cloud sometimes:** [Skill Boost Profile
 ](https://www.cloudskillsboost.google/public_profiles/7910974c-585d-4ad5-807d-e4c89bd080bb)
