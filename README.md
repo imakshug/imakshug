@@ -22,7 +22,7 @@
  
 - 💬 **Ask me about** Python 🐍, Web Dev, Gen AI, space navigation... or anything really.
 
-- 🌱 **What keeps me grounded:** I love diving into books across all genres—fiction, nonfiction, sci-fi, WWII history, and even fashion (yes, I dabble in everything).
+ 
 
 
  <br clear="both">
